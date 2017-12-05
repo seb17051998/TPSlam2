@@ -1,0 +1,6 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\DSConcession\DSConcession\bin\Debug\DSConcession.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\DSConcession\DSConcession\bin\Debug\DSConcession.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\DSConcession\DSConcession\bin\Debug\DllConcession.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\DSConcession\DSConcession\obj\x86\Debug\DSConcession.csprojResolveAssemblyReference.cache
+G:\Lycée jean jacques rousseau\Slam2\TP\DSConcession\DSConcession\obj\x86\Debug\DSConcession.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\DSConcession\DSConcession\obj\x86\Debug\DSConcession.pdb

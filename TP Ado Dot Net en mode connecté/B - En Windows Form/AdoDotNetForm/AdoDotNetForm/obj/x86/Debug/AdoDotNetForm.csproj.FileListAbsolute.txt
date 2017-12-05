@@ -1,0 +1,16 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.Anniversaire.resources
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.Properties.Resources.resources
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.csproj.GenerateResource.Cache
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.csprojResolveAssemblyReference.cache
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\bin\Debug\AdoDotNetForm.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\bin\Debug\AdoDotNetForm.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.btnAnneeEtMois.resources
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.exe
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.pdb
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.csprojResolveAssemblyReference.cache
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.Anniversaire.resources
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.Properties.Resources.resources
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.btnAnneeEtMois.resources
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\B - En Windows Form\AdoDotNetForm\AdoDotNetForm\obj\x86\Debug\AdoDotNetForm.csproj.GenerateResource.Cache

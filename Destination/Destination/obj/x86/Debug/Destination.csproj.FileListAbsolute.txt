@@ -1,0 +1,4 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\Destination\Destination\bin\Debug\Destination.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\Destination\Destination\bin\Debug\Destination.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\Destination\Destination\obj\x86\Debug\Destination.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\Destination\Destination\obj\x86\Debug\Destination.pdb

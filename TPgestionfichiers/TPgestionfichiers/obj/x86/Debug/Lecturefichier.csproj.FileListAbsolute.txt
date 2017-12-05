@@ -1,0 +1,4 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TPgestionfichiers\TPgestionfichiers\bin\Debug\TPgestionfichiers.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPgestionfichiers\TPgestionfichiers\bin\Debug\TPgestionfichiers.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPgestionfichiers\TPgestionfichiers\obj\x86\Debug\TPgestionfichiers.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPgestionfichiers\TPgestionfichiers\obj\x86\Debug\TPgestionfichiers.pdb

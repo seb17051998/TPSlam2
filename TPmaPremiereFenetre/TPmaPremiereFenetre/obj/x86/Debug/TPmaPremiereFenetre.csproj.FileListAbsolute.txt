@@ -1,0 +1,7 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TPmaPremiereFenetre\TPmaPremiereFenetre\obj\x86\Debug\TPmaPremiereFenetre.Properties.Resources.resources
+G:\Lycée jean jacques rousseau\Slam2\TP\TPmaPremiereFenetre\TPmaPremiereFenetre\obj\x86\Debug\TPmaPremiereFenetre.csproj.GenerateResource.Cache
+G:\Lycée jean jacques rousseau\Slam2\TP\TPmaPremiereFenetre\TPmaPremiereFenetre\bin\Debug\TPmaPremiereFenetre.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPmaPremiereFenetre\TPmaPremiereFenetre\bin\Debug\TPmaPremiereFenetre.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPmaPremiereFenetre\TPmaPremiereFenetre\obj\x86\Debug\TPmaPremiereFenetre.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPmaPremiereFenetre\TPmaPremiereFenetre\obj\x86\Debug\TPmaPremiereFenetre.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPmaPremiereFenetre\TPmaPremiereFenetre\obj\x86\Debug\TPmaPremiereFenetre.MaPremiereFenetre.resources

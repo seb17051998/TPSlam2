@@ -1,0 +1,9 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\bin\Debug\TPAdoClass.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\bin\Debug\TPAdoClass.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\obj\x86\Debug\TPAdoClass.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\obj\x86\Debug\TPAdoClass.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\obj\x86\Debug\TPAdoClass.csprojResolveAssemblyReference.cache
+F:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\obj\x86\Debug\TPAdoClass.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\obj\x86\Debug\TPAdoClass.pdb
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\obj\x86\Debug\TPAdoClass.exe
+F:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoClass\obj\x86\Debug\TPAdoClass.pdb

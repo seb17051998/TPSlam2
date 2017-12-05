@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dllBibliothèque</name>
+    </assembly>
+    <members>
+        <member name="M:dllBibliothèque.Auteur.CreateAuteur(System.Int32,System.Int32,System.String,System.String)">
+            <summary>
+            Instancie un auteur
+            </summary>
+            <param name="anneeNaissance">année de naissance de l'auteur</param>
+            <param name="anneeDeces">année de décès de l'auteur</param>
+            <param name="nom">nom de l'auteur</param>
+            <param name="prenom">prenom de l'auteur</param>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Auteur.GetAnneeDeces">
+            <summary>
+            obtient l'année de décès
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Auteur.GetAnneeNaissance">
+            <summary>
+            obtient l'année de naissance
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Auteur.GetNom">
+            <summary>
+            nom de l'auteur
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Auteur.GetPrenom">
+            <summary>
+            prenom de l'auteur
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Auteur.ToString">
+            <summary>
+            auteur sous la forme d'une chaine de caractère
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.CreateBibliotheque(System.String)">
+            <summary>
+            Instancie une bibliothèque avec ses livres
+            </summary>
+            <param name="fichier">nom du fichier contenant les livres et les auteurs</param>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.AjouterLivre(System.String,System.String,dllBibliothèque.Auteur,System.Int32)">
+            <summary>
+            Ajoute un livre à la bibliothèque
+            </summary>
+            <param name="titre">son titre</param>
+            <param name="genre">son genre</param>
+            <param name="auteur">son auteur</param>
+            <param name="anneeSortie">date de parution</param>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.GetLivre(System.Int32)">
+            <summary>
+            Permet d'obtenir un livre de la bibliothèque 
+            </summary>
+            <param name="i">index de base 0</param>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.GetLivre(System.String)">
+            <summary>
+            recherche un livre par son titre, retourne null si le livre n'est pas trouvé
+            </summary>
+            <param name="titre">titre du livre</param>
+            <returns>le livre ou null si non trouvé dans la liste des livres de la bibliothèque</returns>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.GetAuteur(System.Int32)">
+            <summary>
+            Permet d'obtenir un des auteurs de la bibliothèque
+            </summary>
+            <param name="i"></param>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.GetAuteur(System.String,System.String)">
+            <summary>
+            retourne la position ou se trouve l'auteur dans la liste des auteurs, retourne -1 si l'auteur n'est pas trouvé
+            </summary>
+            <param name="nom">nom de l'auteur</param>
+            <param name="prenom">prenom  de l'auteur</param>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.SupprimerLivre(System.Int32)">
+            <summary>
+            supprime le livre qui se trouve en position i
+            </summary>
+            <param name="i">index de base 0</param>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.GetCountLivres">
+            <summary>
+            nombre de livres dans la bibliothèque
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.GetCountAuteurs">
+            <summary>
+            nombre d'auteurs dans la bibliothèque
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Bibliotheque.EnregistrerBibliotheque">
+            <summary>
+            sauvegarde dans un fichier texte la bibliothèque
+            </summary>
+        </member>
+        <member name="M:dllBibliothèque.Livre.CreateLivre(System.String,System.String,dllBibliothèque.Auteur,System.Int32)">
+            <summary>
+            instancie un livree
+            </summary>
+            <param name="titre"></param>
+            <param name="genre"></param>
+            <param name="auteur"></param>
+            <param name="anneeSortie"></param>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Livre.ToString">
+            <summary>
+            représentation d'un livre sous la forme d'une chaine de caractères.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Livre.GetTitre">
+            <summary>
+            Le titre du livre
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Livre.GetAnneeSortie">
+            <summary>
+            Année de parution du livre
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Livre.GetAuteur">
+            <summary>
+            l'auteur du livre
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:dllBibliothèque.Livre.GetGenre">
+            <summary>
+            genre du livre
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

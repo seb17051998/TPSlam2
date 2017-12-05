@@ -1,0 +1,5 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\connexionMySql\connexionMySql\obj\x86\Debug\connexionMySql.csprojResolveAssemblyReference.cache
+G:\Lycée jean jacques rousseau\Slam2\TP\connexionMySql\connexionMySql\bin\Debug\connexionMySql.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\connexionMySql\connexionMySql\bin\Debug\connexionMySql.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\connexionMySql\connexionMySql\obj\x86\Debug\connexionMySql.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\connexionMySql\connexionMySql\obj\x86\Debug\connexionMySql.pdb

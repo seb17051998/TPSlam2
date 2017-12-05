@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>adresseIp</name>
+    </assembly>
+    <members>
+        <member name="F:AdressageIP.AdresseIP.octets">
+            <summary>
+            données membres de l'adresse IP sous la forme d'un entier compris entre 0 et 255
+            </summary>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetInstance(System.String)">
+            <summary>
+            Crée une adresse IP à partir d'une chaine de caractère
+            </summary>
+            <param name="ip">l'adresse ip sous la forme d'une chaine de caractère</param>
+            <returns>l'adresse IP créée</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetInstance(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Crée une adresse IP à partir de 4 entiers
+            </summary>
+            <param name="octet1">1er octet compris entre 0 et 255</param>
+            <param name="octet2">2ème octet compris entre 0 et 255</param>
+            <param name="octet3">3ème octet compris entre 0 et 255</param>
+            <param name="octet4">4ème octet compris entre 0 et 255</param>
+            <returns></returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Constructeur d'adresse IP
+            </summary>
+            <param name="octet1">1er octet compris entre 0 et 255</param>
+            <param name="octet2">2ème octet compris entre 0 et 255</param>
+            <param name="octet3">3ème octet compris entre 0 et 255</param>
+            <param name="octet4">4ème octet compris entre 0 et 255</param>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.ClasseReseau">
+            <summary>
+            Donne la classe de réseau à laquelle appartient l'adresse IP
+            </summary>
+            <returns>"A" pour les adresses entre 0.0.0.0 et 127.255.255.255 "B":128.0.0.0-191.255.255.255 "C":192.0.0.0-223.255.255.255</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.AdresseReseau">
+            <summary>
+            Donne l'adresse réseau en faisant un et logique entre l'adresse IP binaire et le masque binaire.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.etLogique(System.Int32[],System.Int32[])">
+            <summary>
+            et logique
+            </summary>
+            <param name="adresse">adresse en binaire sur 32 bits</param>
+            <param name="masque">masque en binaire sur bits</param>
+            <returns></returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.Masque">
+            <summary>
+            Donne le masque d'une Adresse IP sous la forme d'une adresse IP
+            </summary>
+            <returns>attention retourne null pour les classes autres que A, B et C</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.AppartientAuMemeReseau(AdressageIP.AdresseIP)">
+            <summary>
+            Teste si l'adresse réseau appartient au même réseau que l'adresse passé en paramètre.
+            </summary>
+            <param name="autreAdresseIp"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.AdresseIpBinaire">
+            <summary>
+            présente sous la forme d'une chaine de caractère l'adresse IP en binaire
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.AdresseIpBinaireTableau">
+            <summary>
+            Adresse Ip sous la forme d'un tableau binaire
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.adresseIPDecimaleToBinaire(System.Int32[])">
+            <summary>
+            retourne sous la forme d'un tableau de 32 bits une adresse ip décimale de 4 octets 
+            </summary>
+            <param name="octets4">adresse ip décimale de 4 octets</param>
+            <returns></returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.adresseIPBinaireToDecimale(System.Int32[])">
+            <summary>
+            retourne sous la forme d'un tableau de 4 octets décimal une adresse ip de 32 bits 
+            </summary>
+            <param name="octets32">adresse ip de 32 bits</param>
+            <returns></returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetOctet1">
+            <summary>
+            permet d'obtenir le premier octet de l'adrresse ip sous la forme d'un entier
+            </summary>
+            <returns>1er octet sous la forme d'un entier</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetOctet2">
+            <summary>
+            permet d'obtenir le deuxième octet de l'adrresse ip sous la forme d'un entier
+            </summary>
+            <returns>2ème octet sous la forme d'un entier</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetOctet3">
+            <summary>
+            permet d'obtenir le troisième octet de l'adrresse ip sous la forme d'un entier
+            </summary>
+            <returns>3ème octet sous la forme d'un entier</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetOctet4">
+            <summary>
+            permet d'obtenir le quatrième octet de l'adrresse ip sous la forme d'un entier
+            </summary>
+            <returns>4ème octet sous la forme d'un entier</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetOctet1EnChaine">
+            <summary>
+            permet d'obtenir le premier octet de l'adrresse ip sous la forme d'une chaine
+            </summary>
+            <returns>1er octet sous la forme d'une chaine</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetOctet2EnChaine">
+            <summary>
+            permet d'obtenir le deuxième octet de l'adrresse ip sous la forme d'une chaine
+            </summary>
+            <returns>2ème octet sous la forme d'une chaine</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetOctet3EnChaine">
+            <summary>
+            permet d'obtenir le troisème octet de l'adrresse ip sous la forme d'une chaine
+            </summary>
+            <returns>3ème octet sous la forme d'une chaine</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.GetOctet4EnChaine">
+            <summary>
+            permet d'obtenir le quatrième octet de l'adrresse ip sous la forme d'une chaine
+            </summary>
+            <returns>4ème octet sous la forme d'une chaine</returns>
+        </member>
+        <member name="M:AdressageIP.AdresseIP.ToString">
+            <summary>
+            l'adresse IP en entier sous la forme d'une chaine de caractère
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:AdressageIP.AdresseIP.Item(System.Int32)">
+            <summary>
+            Permet d'obtnir l'octet se trouvant en position index de base 1
+            </summary>
+            <param name="position">numéro d'octet</param>
+            <returns>l'octet sour la forme d'un entier</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\TPManipulationCollections\bin\Debug\TPManipulationCollections.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\TPManipulationCollections\bin\Debug\TPManipulationCollections.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\TPManipulationCollections\obj\x86\Debug\TPManipulationCollections.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\TPManipulationCollections\obj\x86\Debug\TPManipulationCollections.pdb
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\TPManipulationCollections\bin\Debug\TPManipulationCollections.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\TPManipulationCollections\bin\Debug\TPManipulationCollections.pdb
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\TPManipulationCollections\obj\x86\Debug\TPManipulationCollections.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\TPManipulationCollections\obj\x86\Debug\TPManipulationCollections.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\TPManipulationCollections\obj\x86\Debug\TPManipulationCollections.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\TPManipulationCollections\obj\x86\Debug\TPManipulationCollections.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\TPManipulationCollections\bin\Debug\TPManipulationCollections.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\TPManipulationCollections\bin\Debug\TPManipulationCollections.pdb

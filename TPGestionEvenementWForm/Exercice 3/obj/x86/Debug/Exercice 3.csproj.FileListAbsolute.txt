@@ -1,0 +1,9 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\bin\Debug\Exercice 3.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\bin\Debug\Exercice 3.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\obj\x86\Debug\Exercice_3.FExercice3.resources
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\obj\x86\Debug\Exercice_3.Properties.Resources.resources
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\obj\x86\Debug\Exercice 3.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPGestionEvenementWForm\Exercice 3\obj\x86\Debug\Exercice 3.pdb

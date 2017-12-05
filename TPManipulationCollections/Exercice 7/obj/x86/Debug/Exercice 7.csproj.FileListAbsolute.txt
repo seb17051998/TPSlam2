@@ -1,0 +1,10 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 7\bin\Debug\Exercice 7.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 7\bin\Debug\Exercice 7.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 7\obj\x86\Debug\Exercice 7.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 7\obj\x86\Debug\Exercice 7.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 7\obj\x86\Debug\Exercice 7.csprojResolveAssemblyReference.cache
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 7\bin\Debug\Exercice 7.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 7\bin\Debug\Exercice 7.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 7\obj\x86\Debug\Exercice 7.csprojResolveAssemblyReference.cache
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 7\obj\x86\Debug\Exercice 7.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 7\obj\x86\Debug\Exercice 7.pdb

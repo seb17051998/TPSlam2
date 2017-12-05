@@ -1,0 +1,16 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\AdresseIP\Exercice 2\obj\x86\Debug\Exercice 2.csprojResolveAssemblyReference.cache
+G:\Lycée jean jacques rousseau\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\Exercice 2.exe.config
+G:\Lycée jean jacques rousseau\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\Exercice 2.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\Exercice 2.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\adresseIp.dll
+G:\Lycée jean jacques rousseau\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\adresseIp.xml
+G:\Lycée jean jacques rousseau\Slam2\TP\AdresseIP\Exercice 2\obj\x86\Debug\Exercice 2.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\AdresseIP\Exercice 2\obj\x86\Debug\Exercice 2.pdb
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\Exercice 2.exe.config
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\Exercice 2.exe
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\Exercice 2.pdb
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\adresseIp.dll
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 2\bin\Debug\adresseIp.xml
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 2\obj\x86\Debug\Exercice 2.csprojResolveAssemblyReference.cache
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 2\obj\x86\Debug\Exercice 2.exe
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 2\obj\x86\Debug\Exercice 2.pdb

@@ -1,0 +1,4 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoDotNet\bin\Debug\TPAdoDotNet.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoDotNet\bin\Debug\TPAdoDotNet.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoDotNet\obj\x86\Debug\TPAdoDotNet.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Ado Dot Net en mode connecté\A - En mode console\TPAdoDotNet\TPAdoDotNet\obj\x86\Debug\TPAdoDotNet.pdb

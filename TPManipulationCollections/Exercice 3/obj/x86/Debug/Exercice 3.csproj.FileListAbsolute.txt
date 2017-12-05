@@ -1,0 +1,12 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 3\bin\Debug\Exercice 3.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 3\bin\Debug\Exercice 3.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 3\obj\x86\Debug\Exercice 3.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 3\obj\x86\Debug\Exercice 3.pdb
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 3\bin\Debug\Exercice 3.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 3\bin\Debug\Exercice 3.pdb
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 3\obj\x86\Debug\Exercice 3.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 3\obj\x86\Debug\Exercice 3.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 3\bin\Debug\Exercice 3.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 3\bin\Debug\Exercice 3.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 3\obj\x86\Debug\Exercice 3.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 3\obj\x86\Debug\Exercice 3.pdb

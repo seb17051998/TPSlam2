@@ -1,0 +1,5 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\Tp Classe Bidon\Tp Classe Bidon\bin\Debug\Tp Classe Bidon.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\Tp Classe Bidon\Tp Classe Bidon\bin\Debug\Tp Classe Bidon.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\Tp Classe Bidon\Tp Classe Bidon\obj\x86\Debug\Tp Classe Bidon.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\Tp Classe Bidon\Tp Classe Bidon\obj\x86\Debug\Tp Classe Bidon.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\Tp Classe Bidon\Tp Classe Bidon\obj\x86\Debug\Tp Classe Bidon.csprojResolveAssemblyReference.cache

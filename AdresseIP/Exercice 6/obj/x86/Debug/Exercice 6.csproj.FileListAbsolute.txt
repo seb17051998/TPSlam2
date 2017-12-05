@@ -1,0 +1,6 @@
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 6\bin\Debug\Exercice 6.exe
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 6\bin\Debug\Exercice 6.pdb
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 6\bin\Debug\adresseIp.dll
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 6\bin\Debug\adresseIp.xml
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 6\obj\x86\Debug\Exercice 6.exe
+G:\Lycée jean jacques rousseau\BTS SIO 1ère année\Slam2\TP\AdresseIP\Exercice 6\obj\x86\Debug\Exercice 6.pdb

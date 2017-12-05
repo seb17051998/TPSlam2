@@ -1,0 +1,14 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\bin\Debug\Exercice 5.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\bin\Debug\Exercice 5.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\obj\x86\Debug\Exercice 5.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\obj\x86\Debug\Exercice 5.pdb
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\obj\x86\Debug\Exercice 5.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\obj\x86\Debug\Exercice 5.pdb
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\bin\Debug\Exercice 5.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\bin\Debug\Exercice 5.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 5\obj\x86\Debug\Exercice 5.csprojResolveAssemblyReference.cache
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 5\bin\Debug\Exercice 5.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 5\bin\Debug\Exercice 5.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 5\obj\x86\Debug\Exercice 5.csprojResolveAssemblyReference.cache
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 5\obj\x86\Debug\Exercice 5.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 5\obj\x86\Debug\Exercice 5.pdb

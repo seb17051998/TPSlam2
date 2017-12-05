@@ -1,0 +1,12 @@
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 6\bin\Debug\Exercice 6.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 6\bin\Debug\Exercice 6.pdb
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 6\obj\x86\Debug\Exercice 6.exe
+F:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 6\obj\x86\Debug\Exercice 6.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 6\obj\x86\Debug\Exercice 6.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 6\obj\x86\Debug\Exercice 6.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 6\bin\Debug\Exercice 6.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPManipulationCollections\Exercice 6\bin\Debug\Exercice 6.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 6\bin\Debug\Exercice 6.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 6\bin\Debug\Exercice 6.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 6\obj\x86\Debug\Exercice 6.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\slam2\TPManipulationCollections\Exercice 6\obj\x86\Debug\Exercice 6.pdb

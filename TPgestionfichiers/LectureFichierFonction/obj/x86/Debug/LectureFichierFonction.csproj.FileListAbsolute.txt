@@ -1,0 +1,4 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TPgestionfichiers\LectureFichierFonction\bin\Debug\LectureFichierFonction.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPgestionfichiers\LectureFichierFonction\bin\Debug\LectureFichierFonction.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TPgestionfichiers\LectureFichierFonction\obj\x86\Debug\LectureFichierFonction.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TPgestionfichiers\LectureFichierFonction\obj\x86\Debug\LectureFichierFonction.pdb

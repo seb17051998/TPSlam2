@@ -1,0 +1,7 @@
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Bibliothèque\TP Bibliothèque\TP Bibliothèque\bin\Debug\TP Bibliothèque.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Bibliothèque\TP Bibliothèque\TP Bibliothèque\bin\Debug\TP Bibliothèque.pdb
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Bibliothèque\TP Bibliothèque\TP Bibliothèque\bin\Debug\dllBibliothèque.dll
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Bibliothèque\TP Bibliothèque\TP Bibliothèque\bin\Debug\dllBibliothèque.xml
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Bibliothèque\TP Bibliothèque\TP Bibliothèque\obj\x86\Debug\TP Bibliothèque.csprojResolveAssemblyReference.cache
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Bibliothèque\TP Bibliothèque\TP Bibliothèque\obj\x86\Debug\TP Bibliothèque.exe
+G:\Lycée jean jacques rousseau\Slam2\TP\TP Bibliothèque\TP Bibliothèque\TP Bibliothèque\obj\x86\Debug\TP Bibliothèque.pdb
